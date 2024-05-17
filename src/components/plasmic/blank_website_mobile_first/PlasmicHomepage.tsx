@@ -236,7 +236,7 @@ function PlasmicHomepage__RenderFunc(props: {
               <div className={classNames(projectcss.all, sty.freeBox__txXtm)}>
                 <PlasmicImg__
                   alt={""}
-                  className={classNames(sty.img__beqhi)}
+                  className={classNames(sty.img__hHhNd)}
                   displayHeight={"auto"}
                   displayMaxHeight={"none"}
                   displayMaxWidth={"75%"}

@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -73,7 +73,8 @@
           }
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "ohDidvG9XsCeFumugENU3J",
@@ -473,7 +474,8 @@
           "componentImportPath": "@plasmicpkgs/antd5/skinny/registerBreadcrumb"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "gnDk9o2SpppJrguBAcZ8gQ",
@@ -509,19 +511,6 @@
           "scheme": "blackbox",
           "componentType": "component",
           "plumeType": "button"
-        },
-        {
-          "id": "Ll4hFKMFf3XI",
-          "name": "TestComponent",
-          "type": "managed",
-          "projectId": "gnDk9o2SpppJrguBAcZ8gQ",
-          "renderModuleFilePath": "plasmic/blank_website_mobile_first/PlasmicTestComponent.tsx",
-          "importSpec": {
-            "modulePath": "TestComponent.tsx"
-          },
-          "cssFilePath": "plasmic/blank_website_mobile_first/PlasmicTestComponent.module.css",
-          "scheme": "blackbox",
-          "componentType": "component"
         }
       ],
       "icons": [

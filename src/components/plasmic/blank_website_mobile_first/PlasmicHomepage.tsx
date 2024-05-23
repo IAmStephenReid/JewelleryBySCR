@@ -190,11 +190,11 @@ function PlasmicHomepage__RenderFunc(props: {
               className={classNames(
                 projectcss.all,
                 projectcss.__wab_text,
-                sty.text___7BxWs
+                sty.text__suAP
               )}
             >
               {
-                "Handmade jewellery, inspired by fashion. Sourced buttons & charms with an added twist.\n\nPrices include shipping to Ireland via an An Post Digital Stamp. "
+                "\u2728 Handmade Jewellery \u2728\n\nInspired by top fashion brands \ud83c\udf1f\nUnique, luxurious, & crafted with love \ud83d\udc8e\nFollow for daily inspiration & new arrivals \ud83d\udcf8"
               }
             </div>
           </section>
